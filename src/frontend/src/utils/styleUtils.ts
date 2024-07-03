@@ -168,6 +168,7 @@ import { CassandraIcon } from "../icons/Cassandra";
 import { ChromaIcon } from "../icons/ChromaIcon";
 import { CohereIcon } from "../icons/Cohere";
 import { CouchbaseIcon } from "../icons/Couchbase";
+import { CrewAI } from "../icons/CrewAI";
 import { ElasticsearchIcon } from "../icons/ElasticsearchStore";
 import { EvernoteIcon } from "../icons/Evernote";
 import { FBIcon } from "../icons/FacebookMessenger";
@@ -565,6 +566,7 @@ export const nodeIconsLucide: iconsType = {
   PaperclipIcon,
   Settings,
   Streamlit,
+  CrewAI,
   MistralAI: MistralIcon,
   Upstash: UpstashSvgIcon,
   PGVector: CpuIcon,
